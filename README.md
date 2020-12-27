@@ -7,8 +7,8 @@ The client will create a connection to the server and send requests to download 
 
 ## Run
 - In the directory where server.c is present, compile and then run as follows:
-`gcc server.c -o server`.
-`./server`
+`gcc server.c -o server`
+- `./server`
 
 - In the directory where client.c is present, compile and then run as follows:
 `gcc client.c -o client`.
